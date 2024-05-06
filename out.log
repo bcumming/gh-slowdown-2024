@@ -1,0 +1,1448 @@
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 1 -N 1
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 1 -N 1
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 3 -N 3
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 2 -N 2
+numactl -m 3 -N 3
+numactl -m 0 -N 0
+numactl -m 2 -N 2
+numactl -m 1 -N 1
+numactl -m 1 -N 1
+numactl -m 0 -N 0
+numactl -m 0 -N 0
+Took  19.8517 ms/it
+Took  21.0726 ms/it
+Took   8.4715 ms/it
+Took   9.8930 ms/it
+Took   9.7098 ms/it
+Took   7.4628 ms/it
+Took  13.1622 ms/it
+Took  12.7250 ms/it
+Took  14.5512 ms/it
+Took  10.9933 ms/it
+Took   8.5587 ms/it
+Took   9.2113 ms/it
+Took   8.8427 ms/it
+Took   9.5639 ms/it
+Took  15.3764 ms/it
+Took  10.0985 ms/it
+Took  10.5400 ms/it
+Took   8.4784 ms/it
+Took   8.4549 ms/it
+Took   9.2417 ms/it
+Took   8.9022 ms/it
+Took   8.9259 ms/it
+Took   9.4409 ms/it
+Took   9.0886 ms/it
+Took   9.7063 ms/it
+Took   8.6018 ms/it
+Took   8.8873 ms/it
+Took  11.7240 ms/it
+Took   7.7644 ms/it
+Took   8.0676 ms/it
+Took   9.7234 ms/it
+Took   9.3573 ms/it
+Took   8.4131 ms/it
+Took   9.2048 ms/it
+Took   8.5117 ms/it
+Took   8.3969 ms/it
+Took   8.7981 ms/it
+Took  10.7427 ms/it
+Took   9.7250 ms/it
+Took   9.2805 ms/it
+Took   8.6764 ms/it
+Took   8.2940 ms/it
+Took   8.6711 ms/it
+Took   9.6755 ms/it
+Took   8.0739 ms/it
+Took   9.0735 ms/it
+Took   9.2878 ms/it
+Took   8.2389 ms/it
+Took  10.0738 ms/it
+Took   9.3124 ms/it
+Took   9.6801 ms/it
+Took  11.6710 ms/it
+Took   8.4570 ms/it
+Took   9.5134 ms/it
+Took   8.0244 ms/it
+Took   9.2150 ms/it
+Took   9.7109 ms/it
+Took  11.8561 ms/it
+Took   9.4331 ms/it
+Took   7.9759 ms/it
+Took  11.6958 ms/it
+Took   8.7032 ms/it
+Took   8.4511 ms/it
+Took   8.8735 ms/it
+Took   7.6588 ms/it
+Took   9.3803 ms/it
+Took  11.4139 ms/it
+Took   9.8712 ms/it
+Took  10.2441 ms/it
+Took   8.4783 ms/it
+Took   9.6737 ms/it
+Took   9.4311 ms/it
+Took   9.1103 ms/it
+Took   9.3413 ms/it
+Took   9.5943 ms/it
+Took  12.9453 ms/it
+Took   9.9519 ms/it
+Took   8.7218 ms/it
+Took   9.8990 ms/it
+Took   8.5892 ms/it
+Took  13.3902 ms/it
+Took   9.4314 ms/it
+Took   9.6979 ms/it
+Took   9.2897 ms/it
+Took   8.3195 ms/it
+Took   8.6881 ms/it
+Took  25.3528 ms/it
+Took  19.8684 ms/it
+Took  23.4911 ms/it
+Took  11.0034 ms/it
+Took   9.9682 ms/it
+Took   8.3879 ms/it
+Took   8.3019 ms/it
+Took   8.9017 ms/it
+Took   9.3919 ms/it
+Took   9.4227 ms/it
+Took   9.9547 ms/it
+Took  10.1765 ms/it
+Took   9.7900 ms/it
+Took  11.3402 ms/it
+Took   8.9813 ms/it
+Took  11.0259 ms/it
+Took   9.2170 ms/it
+Took   8.7714 ms/it
+Took   8.3803 ms/it
+Took  10.2263 ms/it
+Took   7.9365 ms/it
+Took   8.5116 ms/it
+Took  11.0417 ms/it
+Took   8.4431 ms/it
+Took   9.6923 ms/it
+Took   8.2353 ms/it
+Took   7.7362 ms/it
+Took   9.2001 ms/it
+Took   8.9404 ms/it
+Took  11.0523 ms/it
+Took   9.9688 ms/it
+Took  11.9351 ms/it
+Took   8.0816 ms/it
+Took   9.1147 ms/it
+Took   9.3655 ms/it
+Took   9.4949 ms/it
+Took   8.6459 ms/it
+Took   9.7642 ms/it
+Took   9.5715 ms/it
+Took  12.0132 ms/it
+Took   9.6139 ms/it
+Took   9.4682 ms/it
+Took  14.6602 ms/it
+Took   8.4494 ms/it
+Took   8.8200 ms/it
+Took   9.7150 ms/it
+Took   9.1791 ms/it
+Took   9.0138 ms/it
+Took   9.0940 ms/it
+Took  16.5245 ms/it
+Took   9.5135 ms/it
+Took   9.2288 ms/it
+Took  10.9901 ms/it
+Took   8.3494 ms/it
+Took   8.9568 ms/it
+Took   9.1378 ms/it
+Took   9.1854 ms/it
+Took  10.4145 ms/it
+Took   9.8703 ms/it
+Took  10.0217 ms/it
+Took   8.9153 ms/it
+Took  10.7840 ms/it
+Took   8.3143 ms/it
+Took  12.1599 ms/it
+Took  12.2384 ms/it
+Took  10.4258 ms/it
+Took  11.6930 ms/it
+Took  10.2175 ms/it
+Took   9.2502 ms/it
+Took   9.8042 ms/it
+Took  11.8970 ms/it
+Took   9.2669 ms/it
+Took   8.9278 ms/it
+Took  10.6577 ms/it
+Took   8.9436 ms/it
+Took  10.5161 ms/it
+Took   9.0962 ms/it
+Took  12.0559 ms/it
+Took  13.3930 ms/it
+Took   9.6785 ms/it
+Took   9.9752 ms/it
+Took  10.1791 ms/it
+Took  10.2442 ms/it
+Took   9.8622 ms/it
+Took   8.7395 ms/it
+Took  12.6591 ms/it
+Took   9.6020 ms/it
+Took   9.0763 ms/it
+Took  10.2213 ms/it
+Took  12.8960 ms/it
+Took  15.7145 ms/it
+Took   9.2164 ms/it
+Took   9.4271 ms/it
+Took   9.7686 ms/it
+Took   8.5541 ms/it
+Took   8.8092 ms/it
+Took   8.9367 ms/it
+Took  10.4429 ms/it
+Took   8.7844 ms/it
+Took  11.3151 ms/it
+Took   9.0837 ms/it
+Took  10.7251 ms/it
+Took   9.7138 ms/it
+Took   8.5121 ms/it
+Took   9.4252 ms/it
+Took  10.0075 ms/it
+Took  12.8917 ms/it
+Took   9.2791 ms/it
+Took   7.7879 ms/it
+Took   8.2755 ms/it
+Took   8.7442 ms/it
+Took   9.1126 ms/it
+Took  11.7433 ms/it
+Took   9.0695 ms/it
+Took   9.4888 ms/it
+Took  10.0593 ms/it
+Took   9.1555 ms/it
+Took   9.6884 ms/it
+Took   9.2289 ms/it
+Took   9.3278 ms/it
+Took  12.7672 ms/it
+Took  11.4614 ms/it
+Took   9.6838 ms/it
+Took  10.2033 ms/it
+Took  11.3251 ms/it
+Took   9.7414 ms/it
+Took  10.4410 ms/it
+Took   8.9667 ms/it
+Took  12.5795 ms/it
+Took   9.6703 ms/it
+Took   9.7903 ms/it
+Took   9.5138 ms/it
+Took   9.9853 ms/it
+Took   9.4678 ms/it
+Took  11.2013 ms/it
+Took  12.9846 ms/it
+Took  12.9985 ms/it
+Took   8.4476 ms/it
+Took   9.1020 ms/it
+Took  12.9498 ms/it
+Took  10.0330 ms/it
+Took  10.8766 ms/it
+Took   9.3153 ms/it
+Took   9.6947 ms/it
+Took  11.9957 ms/it
+Took   9.9161 ms/it
+Took   7.7654 ms/it
+Took   9.7244 ms/it
+Took  10.3025 ms/it
+Took   8.1134 ms/it
+Took   9.4356 ms/it
+Took   9.4965 ms/it
+Took   8.5934 ms/it
+Took   9.0341 ms/it
+Took   9.5812 ms/it
+Took  14.4173 ms/it
+Took   8.6295 ms/it
+Took   8.4851 ms/it
+Took   8.9870 ms/it
+Took  12.7644 ms/it
+Took   8.5241 ms/it
+Took   8.4371 ms/it
+Took   8.8988 ms/it
+Took   8.4085 ms/it
+Took   8.1610 ms/it
+Took   8.7309 ms/it
+Took  12.3467 ms/it
+Took   8.8213 ms/it
+Took   8.5643 ms/it
+Took  10.9362 ms/it
+Took  12.4247 ms/it
+Took   8.8573 ms/it
+Took   8.9271 ms/it
+Took   9.1842 ms/it
+Took   9.7476 ms/it
+Took  10.3137 ms/it
+Took   8.5755 ms/it
+Took   9.3309 ms/it
+Took   9.9469 ms/it
+Took   8.5882 ms/it
+Took  10.0564 ms/it
+Took   9.2839 ms/it
+Took   8.7852 ms/it
+Took   7.9094 ms/it
+Took   9.0599 ms/it
+Took   9.5849 ms/it
+Took  11.7156 ms/it
+Took   9.8789 ms/it
+Took   9.0502 ms/it
+Took   9.8688 ms/it
+Took   8.4467 ms/it
+Took   8.2094 ms/it
+Took   8.9944 ms/it
+Took   8.1586 ms/it
+Took   8.3995 ms/it
+Took   9.7523 ms/it
+Took  11.6276 ms/it
+Took  11.9176 ms/it
+Took   9.4581 ms/it
+Took  12.0786 ms/it
+Took   9.6749 ms/it
+Took   9.5895 ms/it
+Took   8.8119 ms/it
+Took   9.5005 ms/it
+Took  12.9649 ms/it
+Took   9.3056 ms/it
+Took   9.7154 ms/it
+Took   9.5884 ms/it
+Took   8.5800 ms/it
+Took   8.4169 ms/it
+Took   9.0439 ms/it
+Took  10.4061 ms/it
+Took  10.1644 ms/it
+Took  11.2707 ms/it
+Took  12.0744 ms/it
+Took  10.4810 ms/it
+Took   8.7735 ms/it
+Took  10.4861 ms/it
+Took   9.5764 ms/it
+Took   8.6318 ms/it
+Took   8.8613 ms/it
+Took   8.7062 ms/it
+Took   8.7502 ms/it
+Took   9.5020 ms/it
+Took   9.4561 ms/it
+Took  12.0528 ms/it
+Took   9.7705 ms/it
+Took   9.7272 ms/it
+Took  10.2711 ms/it
+Took   9.7867 ms/it
+Took  12.0440 ms/it
+Took   9.6753 ms/it
+Took   8.7025 ms/it
+Took  10.4052 ms/it
+Took  11.3976 ms/it
+Took   9.6732 ms/it
+Took   8.9189 ms/it
+Took   9.3854 ms/it
+Took   9.6249 ms/it
+Took  10.3039 ms/it
+Took   9.6053 ms/it
+Took   9.8544 ms/it
+Took   9.8169 ms/it
+Took  14.8095 ms/it
+Took   9.3631 ms/it
+Took  10.2288 ms/it
+Took   8.1306 ms/it
+Took   9.9496 ms/it
+Took   8.4584 ms/it
+Took   9.1952 ms/it
+Took  10.1467 ms/it
+Took   9.0180 ms/it
+Took  10.9923 ms/it
+Took   7.3984 ms/it
+Took   9.5546 ms/it
+Took  13.8328 ms/it
+Took   9.2967 ms/it
+Took   9.0979 ms/it
+Took   8.9003 ms/it
+Took   9.7806 ms/it
+Took   9.1809 ms/it
+Took   8.2302 ms/it
+Took   7.9799 ms/it
+Took  12.9520 ms/it
+Took   9.1376 ms/it
+Took   9.8670 ms/it
+Took  10.3463 ms/it
+Took  11.5942 ms/it
+Took  15.3515 ms/it
+Took   8.4584 ms/it
+Took   9.5572 ms/it
+Took   8.9223 ms/it
+Took  12.0572 ms/it
+Took  11.2276 ms/it
+Took  10.2984 ms/it
+Took   9.3832 ms/it
+Took   8.8453 ms/it
+Took   9.0752 ms/it
+Took  11.2419 ms/it
+Took   8.6614 ms/it
+Took   8.6114 ms/it
+Took   9.7806 ms/it
+Took  10.5079 ms/it
+Took   8.4886 ms/it
+Took   8.7695 ms/it
+Took   8.7917 ms/it
+Took  12.1587 ms/it
+Took  11.5066 ms/it
+Took   9.7629 ms/it
+Took   9.4869 ms/it
+Took   9.1815 ms/it
+Took   9.5869 ms/it
+Took   8.5431 ms/it
+Took   9.3909 ms/it
+Took   8.2561 ms/it
+Took   8.7110 ms/it
+Took   8.5624 ms/it
+Took  10.4766 ms/it
+Took   9.9231 ms/it
+Took   8.9173 ms/it
+Took  10.5260 ms/it
+Took   9.1810 ms/it
+Took   9.3736 ms/it
+Took   8.6405 ms/it
+Took  10.8157 ms/it
+Took   7.4557 ms/it
+Took  10.3127 ms/it
+Took   8.7751 ms/it
+Took   9.7756 ms/it
+Took   8.6743 ms/it
+Took   9.1555 ms/it
+Took   9.4544 ms/it
+Took   9.7361 ms/it
+Took   8.5230 ms/it
+Took   8.3701 ms/it
+Took   9.6317 ms/it
+Took  11.6836 ms/it
+Took   9.4938 ms/it
+Took   8.4358 ms/it
+Took   9.4386 ms/it
+Took   9.6277 ms/it
+Took  10.0334 ms/it
+Took   8.6727 ms/it
+Took   9.4339 ms/it
+Took  11.5056 ms/it
+Took   8.4111 ms/it
+Took   9.0540 ms/it
+Took   8.9092 ms/it
+Took   9.2398 ms/it
+Took   8.4696 ms/it
+Took   8.2402 ms/it
+Took   8.6727 ms/it
+Took   7.9313 ms/it
+Took   8.7378 ms/it
+Took  10.1387 ms/it
+Took   9.2372 ms/it
+Took   8.6269 ms/it
+Took   9.4960 ms/it
+Took   9.1922 ms/it
+Took   8.9979 ms/it
+Took  14.6159 ms/it
+Took   9.9623 ms/it
+Took   9.0395 ms/it
+Took   7.5913 ms/it
+Took  13.5949 ms/it
+Took   9.6115 ms/it
+Took   8.4386 ms/it
+Took  10.2165 ms/it
+Took   9.9253 ms/it
+Took   9.1526 ms/it
+Took  10.3635 ms/it
+Took  12.6054 ms/it
+Took   9.2555 ms/it
+Took  10.6197 ms/it
+Took  10.2131 ms/it
+Took   8.7765 ms/it
+Took   7.7922 ms/it
+Took   9.2922 ms/it
+Took  10.5606 ms/it
+Took   9.8205 ms/it
+Took  12.2748 ms/it
+Took  10.5338 ms/it
+Took   9.7482 ms/it
+Took  12.6722 ms/it
+Took   8.4356 ms/it
+Took   9.5934 ms/it
+Took   9.1141 ms/it
+Took   9.3827 ms/it
+Took   8.0994 ms/it
+Took   8.9077 ms/it
+Took   8.7024 ms/it
+Took   9.2332 ms/it
+Took  14.4187 ms/it
+Took   8.4407 ms/it
+Took   8.2740 ms/it
+Took  10.0324 ms/it
+Took   8.8211 ms/it
+Took   9.3086 ms/it
+Took   8.0241 ms/it
+Took   9.1103 ms/it
+Took   9.4966 ms/it
+Took  10.1349 ms/it
+Took  10.3056 ms/it
+Took  12.1927 ms/it
+Took  10.2529 ms/it
+Took  11.3807 ms/it
+Took   9.1852 ms/it
+Took  10.0781 ms/it
+Took   8.1992 ms/it
+Took   9.3891 ms/it
+Took   9.5249 ms/it
+Took  10.3260 ms/it
+Took   8.9638 ms/it
+Took   8.7050 ms/it
+Took   9.5346 ms/it
+Took  13.1556 ms/it
+Took   9.7024 ms/it
+Took   8.8462 ms/it
+Took  10.8449 ms/it
+Took  10.4364 ms/it
+Took  10.1359 ms/it
+Took   9.1523 ms/it
+Took   9.5984 ms/it
+Took   8.7670 ms/it
+Took   8.5499 ms/it
+Took   9.5102 ms/it
+Took   9.0950 ms/it
+Took   8.6992 ms/it
+Took  10.2069 ms/it
+Took   8.1064 ms/it
+Took   9.8312 ms/it
+Took   9.7657 ms/it
+Took  10.0522 ms/it
+Took  11.1072 ms/it
+Took   8.4242 ms/it
+Took  14.4350 ms/it
+Took  10.5154 ms/it
+Took   8.2717 ms/it
+Took  10.3208 ms/it
+Took   8.7394 ms/it
+Took   7.9158 ms/it
+Took   7.6852 ms/it
+Took   8.9860 ms/it
+Took   8.9294 ms/it
+Took   9.8623 ms/it
+Took  12.0385 ms/it
+Took   9.6623 ms/it
+Took  12.0945 ms/it
+Took  12.7214 ms/it
+Took  11.0138 ms/it
+Took   8.7885 ms/it
+Took   8.9873 ms/it
+Took  10.4274 ms/it
+Took   9.7815 ms/it
+Took   9.1734 ms/it
+Took   9.5569 ms/it
+Took   9.6564 ms/it
+Took   9.1873 ms/it
+Took   9.1690 ms/it
+Took   8.6570 ms/it
+Took   9.7830 ms/it
+Took   9.5140 ms/it
+Took  10.0692 ms/it
+Took   9.3033 ms/it
+Took   9.9152 ms/it
+Took  11.5062 ms/it
+Took  10.2758 ms/it
+Took  12.7004 ms/it
+Took   8.8725 ms/it
+Took   9.9446 ms/it
+Took  13.7646 ms/it
+Took   8.6904 ms/it
+Took  10.0956 ms/it
+Took   9.7376 ms/it
+Took   9.2069 ms/it
+Took  12.1307 ms/it
+Took   8.7337 ms/it
+Took   8.6713 ms/it
+Took   9.0012 ms/it
+Took   8.7135 ms/it
+Took   9.3033 ms/it
+Took   8.8871 ms/it
+Took   9.4870 ms/it
+Took  12.5010 ms/it
+Took   8.9641 ms/it
+Took  10.8182 ms/it
+Took  10.4626 ms/it
+Took   9.3452 ms/it
+Took   8.7471 ms/it
+Took  11.5339 ms/it
+Took   9.1120 ms/it
+Took  10.0447 ms/it
+Took   8.2477 ms/it
+Took   9.5601 ms/it
+Took   8.1273 ms/it
+Took   9.2655 ms/it
+Took   9.7404 ms/it
+Took   9.3758 ms/it
+Took   9.2527 ms/it
+Took   9.7732 ms/it
+Took   8.7112 ms/it
+Took   9.4658 ms/it
+Took   9.5053 ms/it
+Took  11.4632 ms/it
+Took   9.0725 ms/it
+Took   9.9552 ms/it
+Took   8.4012 ms/it
+Took   9.6576 ms/it
+Took   9.4222 ms/it
+Took   8.4600 ms/it
+Took   9.6416 ms/it
+Took   9.4048 ms/it
+Took   8.0186 ms/it
+Took   9.8385 ms/it
+Took   8.1069 ms/it
+Took  10.2500 ms/it
+Took   9.4208 ms/it
+Took   9.3552 ms/it
+Took   9.1416 ms/it
+Took   9.4235 ms/it
+Took  12.4978 ms/it
+Took  10.2890 ms/it
+Took  10.3934 ms/it
+Took  10.8684 ms/it
+Took   9.4962 ms/it
+Took   7.6982 ms/it
+Took   7.7445 ms/it
+Took   9.5643 ms/it
+Took   8.6260 ms/it
+Took   9.1586 ms/it
+Took   8.6276 ms/it
+Took   8.5514 ms/it
+Took   9.7928 ms/it
+Took   9.6401 ms/it
+Took  14.1965 ms/it
+Took   9.2261 ms/it
+Took  10.1552 ms/it
+Took  12.0796 ms/it
+Took   8.3852 ms/it
+Took   8.3511 ms/it
+Took   8.8439 ms/it
+Took   8.2956 ms/it
+Took  13.9389 ms/it
+Took  10.5690 ms/it
+Took  11.9959 ms/it
+Took   9.8864 ms/it
+Took   9.2860 ms/it
+Took  10.2873 ms/it
+Took   9.8505 ms/it
+Took   9.2902 ms/it
+Took   9.8883 ms/it
+Took   9.5268 ms/it
+Took   8.2927 ms/it
+Took   9.4876 ms/it
+Took   9.0587 ms/it
+Took  11.7810 ms/it
+Took  10.0074 ms/it
+Took   9.1000 ms/it
+Took   8.3374 ms/it
+Took  11.6418 ms/it
+Took   9.4993 ms/it
+Took  13.2567 ms/it
+Took   9.9304 ms/it
+Took   8.1910 ms/it
+Took   9.3011 ms/it
+Took  10.1948 ms/it
+Took   9.8839 ms/it
+Took   9.1416 ms/it
+Took   9.8004 ms/it
+Took   8.9766 ms/it
+Took   8.9253 ms/it
+Took   8.5346 ms/it
+Took   9.6210 ms/it
+Took  13.2869 ms/it
+Took   9.8880 ms/it
+Took   9.3339 ms/it
+Took   8.8857 ms/it
+Took  12.3000 ms/it
+Took  10.1652 ms/it
+Took  10.1249 ms/it
+Took   8.6985 ms/it
+Took   7.6334 ms/it
+Took  11.1463 ms/it
+Took   7.7496 ms/it
+Took  10.1297 ms/it
+Took  10.0705 ms/it
+Took  13.6490 ms/it
+Took   9.2548 ms/it
+Took   9.5397 ms/it
+Took   8.0756 ms/it
+Took   8.4574 ms/it
+Took  12.5531 ms/it
+Took  13.6584 ms/it
+Took   8.4937 ms/it
+Took   8.5419 ms/it
+Took   7.9423 ms/it
+Took  10.5546 ms/it
+Took   8.3483 ms/it
+Took   9.4114 ms/it
+Took  12.3293 ms/it
+Took  11.1446 ms/it
+Took   6.8177 ms/it
+Took   8.5280 ms/it
+Took   9.7734 ms/it
+Took  10.6267 ms/it
+Took   9.2604 ms/it
+Took   9.6987 ms/it
+Took   9.3631 ms/it
+Took   9.0180 ms/it
+Took   7.5133 ms/it
+Took  10.9323 ms/it
+Took  10.2655 ms/it
+Took   8.6064 ms/it
+Took   9.1778 ms/it
+Took   8.7318 ms/it
+Took  10.2385 ms/it
+Took  10.2883 ms/it
+Took   9.5698 ms/it
+Took  10.6967 ms/it
+Took   9.5703 ms/it
+Took   8.9036 ms/it
+Took   9.2580 ms/it
+Took   8.7705 ms/it
+Took   8.6635 ms/it
+Took   8.7142 ms/it
+Took   8.9072 ms/it
+Took   9.6281 ms/it
+Took  11.1341 ms/it
+Took   8.7472 ms/it
+Took   8.9923 ms/it
+Took   8.4785 ms/it
+Took  10.0868 ms/it
+Took  10.8795 ms/it
+Took   9.1337 ms/it
+Took  10.1657 ms/it
+Took   9.1270 ms/it
+Took   7.7860 ms/it
+Took  12.0059 ms/it
+Took  11.4933 ms/it
+Took  14.1601 ms/it
+Took   9.5881 ms/it
+Took   9.8561 ms/it
+Took   8.9684 ms/it
+Took   8.3565 ms/it
+Took   9.1628 ms/it
+Took   7.8823 ms/it
+Took  11.0100 ms/it
+Took  13.2714 ms/it
+Took   9.4505 ms/it
+Took   9.0010 ms/it
+Took  10.2886 ms/it
+Took  15.9627 ms/it
+Took   8.8131 ms/it
+Took  11.1427 ms/it
+Took   8.0952 ms/it
+Took   8.6169 ms/it
+Took  10.5401 ms/it
+Took  10.0696 ms/it
+Took  12.6178 ms/it
+Took   8.0685 ms/it
+Took   9.2059 ms/it
+Took   8.7617 ms/it
+Took   8.2594 ms/it
+Took   8.6132 ms/it
+Took   9.0496 ms/it
+Took   8.4430 ms/it
+Took   9.7544 ms/it
+Took   8.8304 ms/it
+Took   9.1480 ms/it
+Took  11.0045 ms/it
+Took  16.0572 ms/it
+Took   9.6606 ms/it
+Took   9.2920 ms/it
+Took   8.2911 ms/it
+Took   9.7395 ms/it
+Took  11.9882 ms/it
+Took   9.5519 ms/it
+Took  10.1156 ms/it
+Took  11.9353 ms/it
+Took  10.1146 ms/it
+Took   9.3345 ms/it
+Took  10.6521 ms/it
+Took   9.8157 ms/it
+Took   9.8639 ms/it
+Took   9.0399 ms/it
+Took   8.8373 ms/it
+Took   8.5314 ms/it
+Took   9.0061 ms/it
+Took  11.4703 ms/it
+Took   7.8156 ms/it
+Took   9.6399 ms/it
+Took   9.5845 ms/it
+Took   8.6801 ms/it
+Took   9.7107 ms/it
+Took   8.6206 ms/it
+Took   7.9354 ms/it
+Took   9.0891 ms/it
+Took   9.1000 ms/it
+Took   9.0695 ms/it
+Took   8.9945 ms/it
+Took  11.9179 ms/it
+Took   9.0485 ms/it
+Took   8.4914 ms/it
+Took   8.0868 ms/it
+Took  10.2590 ms/it
+Took   9.6879 ms/it
+Took  10.9488 ms/it
+Took   9.3444 ms/it
+Took   8.6039 ms/it
+Took  11.9639 ms/it
+Took   9.4857 ms/it
+Took  15.1082 ms/it
+Took   8.8055 ms/it
+Took   8.7828 ms/it
+Took   8.6812 ms/it
+Took  11.0043 ms/it
+Took   8.6412 ms/it
+Took  18.3043 ms/it
+Took  15.9331 ms/it
+Took  12.8830 ms/it
+Took   9.6061 ms/it
+Took  10.9786 ms/it
+Took   8.5576 ms/it
+Took  11.2761 ms/it
+Took  13.4285 ms/it
+Took  14.7293 ms/it
+Took   9.9490 ms/it
+Took   9.7573 ms/it
+Took   9.4448 ms/it
+Took   9.5138 ms/it
+Took   8.9287 ms/it
+Took  11.0137 ms/it
+Took   8.8370 ms/it
+Took  10.2549 ms/it
+Took   9.4999 ms/it
+Took   7.4403 ms/it
+Took   9.5181 ms/it
+Took   9.5018 ms/it
+Took   8.7303 ms/it
+Took   8.9165 ms/it
+Took   9.0067 ms/it
+Took   9.4244 ms/it
+Took  11.9209 ms/it
+Took  13.7651 ms/it
+Took   8.7757 ms/it
+Took   7.8870 ms/it
+Took   8.8662 ms/it
+Took  14.7852 ms/it
+Took  10.8676 ms/it
+Took   9.6402 ms/it
+Took   8.9396 ms/it
+Took   8.6729 ms/it
+Took   9.8845 ms/it
+Took   9.3463 ms/it
+Took  10.7223 ms/it
+Took   9.1374 ms/it
+Took   8.2938 ms/it
+Took   8.8329 ms/it
+Took  10.0605 ms/it
+Took   9.5433 ms/it
+Took  11.1370 ms/it
+Took   9.2164 ms/it
+Took   8.8288 ms/it
+Took   9.2634 ms/it
+Took   9.8069 ms/it
+Took   9.7458 ms/it
+Took  19.8309 ms/it
+Took   8.9437 ms/it
+Took   9.2614 ms/it
+Took  10.8048 ms/it
+Took  10.2139 ms/it
+Took   8.3028 ms/it
+Took  12.0048 ms/it
+Took   8.8762 ms/it
+Took  12.4326 ms/it
+Took   8.8489 ms/it
+Took   8.3712 ms/it
+Took   9.6616 ms/it
+Took  11.3652 ms/it
+Took   8.2722 ms/it
+Took   9.2142 ms/it
+Took   9.9595 ms/it
+Took  14.3479 ms/it
+Took   9.6662 ms/it
+Took   9.0216 ms/it
+Took   9.2747 ms/it
+Took   9.8342 ms/it
+Took   8.7664 ms/it
+Took   8.6216 ms/it
+Took   8.9954 ms/it
+Took   8.3681 ms/it
+Took   8.3138 ms/it
+Took   9.8619 ms/it
+Took   9.3040 ms/it
+Took  10.2910 ms/it
+Took   7.8591 ms/it
+Took   9.6111 ms/it
+Took   8.6832 ms/it
+Took   8.9652 ms/it
+Took   9.4216 ms/it
+Took   9.4377 ms/it
+Took   8.8900 ms/it
+Took  11.7236 ms/it
+Took   9.8090 ms/it
+Took   8.8525 ms/it
+Took   9.6206 ms/it
+Took   9.1651 ms/it
+Took   8.9166 ms/it
+Took   7.9455 ms/it
+Took  10.3951 ms/it
+Took   8.6266 ms/it
+Took   9.5679 ms/it
+Took   9.4657 ms/it
+Took   9.3517 ms/it
+Took  13.9377 ms/it
+Took   9.5529 ms/it
+Took   7.9171 ms/it
+Took   9.2352 ms/it
+Took   8.6978 ms/it
+Took  10.1966 ms/it
+Took  10.4763 ms/it
+Took  11.4622 ms/it
+Took   8.4244 ms/it
+Took  14.3511 ms/it
+Took  11.3143 ms/it
+Took  10.5514 ms/it
+Took  10.7113 ms/it
+Took   8.4177 ms/it
+Took   8.9451 ms/it
+Took   8.5921 ms/it
+Took   9.1023 ms/it
+Took   9.8095 ms/it
+Took  12.1901 ms/it
+Took  11.3365 ms/it
+Took   8.3693 ms/it
+Took  11.8453 ms/it
+Took   8.4765 ms/it
+Took  11.1522 ms/it
+Took  10.3422 ms/it
+Took  14.6195 ms/it
+Took  10.9629 ms/it
+Took  12.6264 ms/it
+Took  10.4770 ms/it
+Took  10.4825 ms/it
+Took   7.8664 ms/it
+Took   8.6985 ms/it
+Took   9.5325 ms/it
+Took   8.3326 ms/it
+Took   9.1033 ms/it
+Took   9.3856 ms/it
+Took   9.5143 ms/it
+Took   9.3547 ms/it
+Took   8.3190 ms/it
+Took  15.4952 ms/it
+Took  15.2229 ms/it
+Took   9.0569 ms/it
+Took   9.0231 ms/it
+Took   9.4314 ms/it
+Took   8.0918 ms/it
+Took  10.6760 ms/it
+Took   9.0613 ms/it
+Took   8.8881 ms/it
+Took   8.1600 ms/it
+Took   8.9174 ms/it
+Took   8.6341 ms/it
+Took   8.2310 ms/it
+Took   7.4742 ms/it
+Took   8.7492 ms/it
+Took   8.8156 ms/it
+Took   9.3703 ms/it
+Took   8.7624 ms/it
+Took   8.1162 ms/it
+Took   7.9123 ms/it
+Took   8.4054 ms/it
+Took   9.3354 ms/it
+Took   9.9720 ms/it
+Took   9.2288 ms/it
+Took   8.1032 ms/it
+Took   8.8598 ms/it
+Took   8.9302 ms/it
+Took   8.5394 ms/it
+Took   9.2119 ms/it
+Took   7.3634 ms/it
+Took  12.3369 ms/it
+Took   7.6200 ms/it
+Took  11.7736 ms/it
+Took  10.5750 ms/it
+Took   9.4618 ms/it
+Took   7.7786 ms/it
+Took   8.4917 ms/it
+Took   8.2136 ms/it
+Took   8.3710 ms/it
+Took   9.3871 ms/it
+Took   8.0897 ms/it
+Took  12.9150 ms/it
+Took   8.0955 ms/it
+Took   8.8419 ms/it
+Took   9.6625 ms/it
+Took  10.5932 ms/it
+Took  10.0839 ms/it
+Took   8.8738 ms/it
+Took  10.5386 ms/it
+Took   9.1414 ms/it
+Took   9.3511 ms/it
+Took   9.8523 ms/it
+Took   8.4138 ms/it
+Took  12.1451 ms/it
+Took   8.9259 ms/it
+Took   8.3883 ms/it
+Took   9.9034 ms/it
+Took   9.3265 ms/it
+Took   9.4386 ms/it
+Took   9.2911 ms/it
+Took   9.6633 ms/it
+Took   9.1803 ms/it
+Took   8.1788 ms/it
+Took  11.1524 ms/it
+Took   8.8913 ms/it
+Took   8.6205 ms/it
+Took   9.2083 ms/it
+Took   9.0967 ms/it
+Took   9.8547 ms/it
+Took   8.9358 ms/it
+Took   9.3083 ms/it
+Took   9.1736 ms/it
+Took   9.5323 ms/it
+Took   8.5611 ms/it
+Took   8.5273 ms/it
+Took   8.8223 ms/it
+Took  12.3502 ms/it
+Took   9.0553 ms/it
+Took   8.5359 ms/it
+Took   8.4317 ms/it
+Took   8.8661 ms/it
